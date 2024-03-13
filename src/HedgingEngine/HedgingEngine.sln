@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HedgingEngine", "HedgingEngine.csproj", "{7D421427-CB50-4A82-B266-3AAF011721DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D421427-CB50-4A82-B266-3AAF011721DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D421427-CB50-4A82-B266-3AAF011721DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D421427-CB50-4A82-B266-3AAF011721DA}.Debug|x64.ActiveCfg = Debug|x64
+		{7D421427-CB50-4A82-B266-3AAF011721DA}.Debug|x64.Build.0 = Debug|x64
+		{7D421427-CB50-4A82-B266-3AAF011721DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D421427-CB50-4A82-B266-3AAF011721DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D421427-CB50-4A82-B266-3AAF011721DA}.Release|x64.ActiveCfg = Release|x64
+		{7D421427-CB50-4A82-B266-3AAF011721DA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9BA84E4-5E0A-4E01-9566-1E05D65B97A1}
+	EndGlobalSection
+EndGlobal
